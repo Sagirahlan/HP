@@ -1,0 +1,1 @@
+<?php require("views/product.views.php") ?>
